@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199702173841",
+    "project_id": "productive-u-56b60",
+    "storage_bucket": "productive-u-56b60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199702173841:android:1e74093b786f54414e4730",
+        "android_client_info": {
+          "package_name": "com.example.productive_u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKgzqdWGBeUKmJo43x8xYI9HfMPfqY4dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
