@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 **Functionality**
 - Authentication (Email/password & Google Auth)
 - Task management (CRUD)
+- Progress monitoring and task filtering
 - Notification service
 
 **Technologies**
